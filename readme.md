@@ -48,7 +48,7 @@ same with operations -, *, /, %.
 
 our forth subset also supports:
 
-swap
+swap - using temporary location for swapping two stack locations will cause a decrease in grade.
 dup
 drop
 over
